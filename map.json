@@ -73,7 +73,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.web-bar.de\/wp-content\/uploads\/2021\/01\/UP_Club_2020.mp3"
+                 "value":"mp3/mp3_spaceship.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
