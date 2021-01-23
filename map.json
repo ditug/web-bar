@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"..\/web-bar.de\/wp-content\/uploads\/club\/map.json"
+         "target":"..\/map.json"
         }
     },
  "height":34,
@@ -138,7 +138,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/web-bar.de\/wp-content\/uploads\/club\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1043,7 +1043,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/web-bar.de\/wp-content\/uploads\/club\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
